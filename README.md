@@ -7,3 +7,5 @@ The classes:
 	BLG 233E - Data Structures & Laboratory
 	BLG 252E - Object Oriented Programming
 	BLG 312  - İşletim Sistemleri
+	BLG 335E - Analysis of Algorithm I
+	BLG 336E - Analysis of Algorithm II
